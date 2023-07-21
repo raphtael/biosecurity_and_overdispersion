@@ -1,0 +1,10 @@
+The data_all_pathways.csv file contains border biosecurity inspection data associated with the
+`Efficient border biosecurity inspection leverages superspreading to reduce biologival invasion risk' manuscript by Raphael Trouve and Andrew P. Robinson.
+
+Each row represent the result of a border biosecurity inspection on an incoming consignment.
+The columns are:
+* data_type: The data source of the data which can be one of five distinct categories (Germplasm and seed viroids imports to Australia, fresh produce imports to New Zealand, cut flower imports to New Zealand, and pelleted seed imports to New Zealand).
+* group_id: Anonymized pathway name. Each pathway represents a distinct combination of commodity and country of origin.
+* k: Number of infested units found in the inspection.
+* n: Inspection sample size.
+* N: Number of units in the consignement (i.e., consignment size). 
