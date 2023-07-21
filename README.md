@@ -1,2 +1,2 @@
 # biosecurity_and_overdispersion
-Data and R scripts accompanying the manuscript titled "efficient border biosecurity inspection leverages superspreading to reduce biological invasion risk"
+This repository contains anonymized data and R scripts that reproduces the analyses from the manuscript titled "Efficient border biosecurity inspection leverages superspreading to reduce biological invasion risk".
