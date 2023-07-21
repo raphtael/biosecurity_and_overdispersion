@@ -186,7 +186,7 @@
     guides(col = guide_legend(title = TeX("$\\beta =$")))
   p3
   ggsave(
-    plot = p, 
+    plot = p3, 
     filename = './figs/theoretical_bias_vs_sd_logN_optimal_sample_size_assuming_no_overdispersion.pdf', 
     width = 20, 
     height = 10, 
