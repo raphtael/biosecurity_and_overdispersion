@@ -9,5 +9,4 @@ In the **data** folder, you will find the data_all_pathways.csv file which conta
 * N: Number of units in the consignement (i.e., consignment size). 
 
 The **R** folder contains 14 R scripts that reproduce the analyses and figures shown in the manuscript and supplementary material. The **functions** folder contains custom R functions that are sourced and used in specific R scrips.
-
 The results of the R scripts are stored in the **figs** and **outputs** folders. These results include figures, tables, and model fits.
