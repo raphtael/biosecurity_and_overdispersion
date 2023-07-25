@@ -10,3 +10,5 @@ In the **data** folder, you will find the data_all_pathways.csv file which conta
 
 The **R** folder contains 14 R scripts that reproduce the analyses and figures shown in the manuscript and supplementary material. The **functions** folder contains custom R functions that are sourced and used in specific R scrips.
 The results of the R scripts are stored in the **figs** and **outputs** folders. These results include figures, tables, and model fits that are used in the paper.
+Cite the code and data: 
+[![DOI](https://zenodo.org/badge/668994138.svg)](https://zenodo.org/badge/latestdoi/668994138)
